@@ -1,4 +1,4 @@
-# Making a POST Request from Client Side (React / Next.js Client Component)
+# Making a POST Request from Client Side 
 
 This document explains **how to send data from the client side to a backend API using a POST request**, following best practices.  
 All examples are based on the **Fetch API** and **form submission handling**.
