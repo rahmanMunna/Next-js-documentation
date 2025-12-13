@@ -47,3 +47,6 @@ export default async function Products() {
 - The products variable will contain the JSON response from the API.
 - You can now map over products to render UI elements.
 
+- Here api is calling and resaolved in server side. No client side rendering.
+- As it is server side rendering, we dont need to use `useEffect()` hooks as like react to call the api.
+- In next js we can make any component async, as it is server side rendering.
